@@ -1,2 +1,2 @@
-# Exercicio22
-Exercício 22 em Java
+# Exercicio21
+Exercício 21 em Java
